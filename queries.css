@@ -1,0 +1,56 @@
+@media only screen and (max-width:767px){
+
+*{
+  overflow: hidden;
+}
+
+.header {
+  overflow: hidden;
+  width:auto;
+  height:auto;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  color:white;
+
+}
+
+.bio {
+  width:auto;
+  height:auto;
+  margin-left:5%;
+  margin-right:5%;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+  margin-top: 16px;
+}
+
+.waveButton{
+  margin-left:10%;
+  margin-right:10%;
+  position: center;
+  width:auto;
+  height:auto;
+  cursor: pointer;
+  margin-top: 20px;
+  padding: 15px;
+  color:white;
+  /* border: 5px; */
+  border-radius: 50px;
+  font-size: 18px;
+  border:2px solid #ffff;
+  background: rgb(159,0,93); 
+  background: linear-gradient(90deg, rgba(159,0,93,1) 34%, rgba(0,209,255,1) 89%); 
+
+}
+
+#wave-message{
+  margin-top:18px;
+  width:auto;
+  height:50px;
+  margin-left:5%;
+  margin-right:5%;
+}
+  
+}
